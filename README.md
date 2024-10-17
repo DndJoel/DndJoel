@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DndJoel
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
+- 💞️ I’m looking to collaborate on full-stack apps 
+- 📫 You can reach me on Instagram, Twitter, Linkdin and my email
